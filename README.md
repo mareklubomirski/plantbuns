@@ -1,6 +1,7 @@
 # Plant Buns
 
 This project is an E-commerce website created using React and [Commerce.js](https://commercejs.com/)
+
 Some elements were created using [MaterialUI](https://material-ui.com/)
 
 Live demo [here!](https://material-ui.com/)
