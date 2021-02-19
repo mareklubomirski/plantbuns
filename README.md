@@ -4,7 +4,7 @@ This project is an E-commerce website created using React and [Commerce.js](http
 
 Some elements were created using [MaterialUI](https://material-ui.com/)
 
-Live demo [here!](https://plantbuns.netlify.app/)
+Live demo [here!](https://plant-buns.netlify.app/)
 
 References:
 
