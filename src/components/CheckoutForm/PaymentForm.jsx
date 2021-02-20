@@ -24,7 +24,7 @@ const PaymentForm  = ({checkoutToken, ShipData, backStep, onCaptureCheckout, nex
 				<div style = {{display: 'flex', justifyContent: 'space-between'}}>
 					<Button variant = "outlined" onClick = {backStep} > Back </Button>
 					<Button type = "submit" variant = "contained" color= "primary" onClick = {(e) => handleSubmit(e)}> 
-								Pay {checkoutToken.live.subtotal.raw} KZT
+								Pay {checkoutToken.live.subtotal.raw} BTC
 					</Button>
 				</div>
 		</div>
